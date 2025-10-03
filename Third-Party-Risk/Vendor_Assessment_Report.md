@@ -7,7 +7,7 @@
 ---
 
 ## Summary
-The vendor completed a security questionnaire covering 12 core security and compliance areas.  
+The vendor completed a 12-question security questionnaire.  
 They scored **18/24 points**, resulting in a **Medium Risk** classification.  
 
 ---
