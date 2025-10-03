@@ -45,4 +45,4 @@ This portfolio demonstrates my readiness for **entry-level GRC Analyst / Risk An
 
 ---
 
-📧 Contact: **yungseed@gmail.com** | 📱 323-316-5498 | Los Angeles, CA
+ Contact: **yungseed@gmail.com** |  323-316-5498 | Los Angeles, CA
