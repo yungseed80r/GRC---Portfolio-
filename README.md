@@ -4,6 +4,12 @@
 
 ---
 
+💼 **Connect with Me:**  
+📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  
+🌐 [LinkedIn – Alexander T. Ramos](https://www.linkedin.com/in/alex-r-68115231)
+
+---
+
 ## About This Portfolio  
 This portfolio demonstrates my ability to design and implement Governance, Risk, and Compliance (GRC) artifacts aligned with industry frameworks such as **NIST Cybersecurity Framework (CSF 2.0), ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, and PCI DSS v4.0**.  
 
