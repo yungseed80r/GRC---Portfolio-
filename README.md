@@ -1,87 +1,72 @@
-# Cybersecurity GRC Portfolio  
-**Author:** Alex Ramos  
-**Focus:** Governance, Risk & Compliance (GRC) | Audit Readiness | Security Policies | Risk Management  
+# 🧩 GRC Cybersecurity Portfolio  
+### by Alexander T. Ramos  
 
----
+📂 **Explore Full GRC Portfolio on GitHub:**  
+[🔗 View GRC Portfolio Repository](https://github.com/yungseed80r/GRC---Portfolio-/)
 
 💼 **Connect with Me:**  
 📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  
-🌐 [LinkedIn – Alex Ramos](https://www.linkedin.com/in/alex-r-68115231)
+🌐 [LinkedIn – Alexander T. Ramos](https://www.linkedin.com/in/alex-r-68115231)
 
 ---
 
-## About This Portfolio  
-This portfolio demonstrates my ability to design and implement Governance, Risk, and Compliance (GRC) artifacts aligned with industry frameworks such as **NIST Cybersecurity Framework (CSF 2.0), ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, and PCI DSS v4.0**.  
-
-It highlights my skills in:  
-- Policy development  
-- Risk assessment and treatment  
-- Compliance control mapping  
-- Vendor risk management  
-- Gap analysis & remediation planning  
-- Incident response design and testing  
-
-Each artifact includes both **technical deliverables (Markdown, Excel)** for GitHub and **executive-ready reports (PDF)** for recruiters and leadership review.  
+**Objective:**  
+Showcase governance, risk, and compliance (GRC) artifacts that demonstrate practical understanding of cybersecurity frameworks, policy creation, control mapping, and risk assessment processes.  
+All materials align with **NIST CSF**, **ISO 27001**, **SOC 2**, and **PCI DSS v4.0** principles.
 
 ---
 
-## Portfolio Artifacts  
+## 📂 Portfolio Artifacts (Alphabetical Order)
 
-### 1. Information Security Policy  
-[Information Security Policy (Markdown)](./Policies/Information_Security_Policy.md)  
-Defines organizational security principles aligned with ISO 27001 Annex A controls.  
-
----
-
-### 2. Risk Register & Treatment Plan  
-[Risk Register (Excel)](./Risk-Management/Risk_Register.xlsx)  
-[Risk Treatment Plan (Markdown)](./Risk-Management/Risk_Treatment_Plan.md)  
-[Risk Methodology (Markdown)](./Risk-Management/Risk_Methodology.md)  
-[Risk Register (PDF)](./Risk-Management/Risk_Register.pdf)  
-Shows ability to identify, score, and treat risks using NIST CSF methodology.  
+### 🚨 Incident Response (GRC)  
+**Folder:** `Incident-Response`  
+**Deliverables:** `IR_Playbook.md`, `IR_Tabletop_Scenario.md`, `After_Action_Report.pdf`  
+**Focus:** NIST 800-61 lifecycle, tabletop exercise design, and governance reporting.
 
 ---
 
-### 3. SOC 2 Control Matrix  
-[SOC 2 Control Matrix (Markdown)](./SOC2/SOC2_Control_Matrix.md)  
-[SOC 2 Control Matrix (PDF)](./SOC2/SOC2_Control_Matrix.pdf)  
-Maps controls to SOC 2 Trust Services Criteria with evidence and ownership.  
+### 💳 PCI DSS v4.0 Gap Assessment  
+**Folder:** `PCI`  
+**Deliverables:** `PCI_Gap_Checklist.xlsx`, `PCI_Gap_Findings.md`, `PCI_Gap_Remediation_Plan.pdf`  
+**Focus:** PCI DSS v4.0 control evaluation, gap prioritization, and remediation planning.
 
 ---
 
-### 4. Third-Party Vendor Risk Assessment  
-[Vendor Risk Questionnaire (Markdown)](./Third-Party-Risk/Vendor_Risk_Questionnaire.md)  
-[Vendor Scoring Model (Excel)](./Third-Party-Risk/Vendor_Scoring_Model.xlsx)  
-[Vendor Assessment Report (Markdown)](./Third-Party-Risk/Vendor_Assessment_Report.md)  
-[Vendor Assessment Report (PDF)](./Third-Party-Risk/Vendor_Assessment_Report.pdf)  
-Demonstrates vendor evaluation, risk scoring, and actionable reporting.  
+### 🛡️ Policies  
+**Folder:** `Policies`  
+**Deliverables:** `Information_Security_Policy.md`, `Acceptable_Use_Policy.md`, `Access_Control_Policy.md`, `Incident_Response_Policy.md`, `Data_Classification_Standard.md`  
+**Focus:** ISO 27001 Annex A alignment and organizational governance policy development.
 
 ---
 
-### 5. PCI DSS v4.0 Gap Assessment  
-[PCI Gap Checklist (Excel)](./PCI/PCI_Gap_Checklist.xlsx)  
-[PCI Gap Findings (Markdown)](./PCI/PCI_Gap_Findings.md)  
-[PCI Gap Remediation Plan (PDF)](./PCI/PCI_Gap_Remediation_Plan.pdf)  
-Identifies compliance gaps against PCI DSS v4.0 and provides remediation actions.  
+### 📊 Risk Management  
+**Folder:** `Risk-Management`  
+**Deliverables:** `Risk_Register.xlsx`, `Risk_Treatment_Plan.md`, `Risk_Methodology.md`, `Risk_Register.pdf`  
+**Focus:** Risk identification, scoring, and treatment aligned with NIST CSF and ISO 31000.
 
 ---
 
-### 6. Incident Response Playbook & Exercise  
-[Incident Response Playbook (Markdown)](./Incident-Response/IR_Playbook.md)  
-[Tabletop Exercise Scenario (Markdown)](./Incident-Response/IR_Tabletop_Scenario.md)  
-[After Action Report (PDF)](./Incident-Response/IR_After_Action_Report.pdf)  
-Outlines IR lifecycle, tabletop scenario, and structured post-incident reporting.  
+### ✅ SOC 2 Control Matrix  
+**Folder:** `SOC2`  
+**Deliverables:** `SOC2_Control_Matrix.md`, `SOC2_Control_Matrix.pdf`  
+**Focus:** SOC 2 Trust Services Criteria mapping, evidence collection, and audit readiness.
 
 ---
 
-## How to Use This Portfolio  
-- **Recruiters & Hiring Managers:** Review the PDF versions for executive-style deliverables.  
-- **Security Practitioners:** Explore the Markdown and Excel artifacts for technical detail.  
-- **Teams & Organizations:** Use these samples as templates for building security programs.  
+### 🤝 Third-Party Risk (TPRM)  
+**Folder:** `Third-Party-Risk`  
+**Deliverables:** `Vendor_Risk_Questionnaire.md`, `Vendor_Scoring_Model.xlsx`, `Vendor_Assessment_Report.md`, `Vendor_Assessment_Report.pdf`  
+**Focus:** Vendor due diligence, risk scoring, and corrective action planning.
 
 ---
 
-## Contact  
-Email: yungseed@gmail.com  
-Phone: 323-316-5498  
-GitHub: [GRC-Portfolio](https://github.com/YourUsername/GRC-Portfolio)  
+## 🧰 Frameworks & Methodologies  
+**Governance & Compliance:** NIST CSF • ISO 27001 • SOC 2 TSC • PCI DSS v4.0  
+**Risk & Policy:** NIST 800-30 • ISO 31000 • NIST 800-61 • CIS Controls  
+
+---
+
+## 🧑‍💻 About the Author  
+**Alexander T. Ramos**  
+Cybersecurity Analyst | CompTIA Security+ | Network+ | IT Essentials Certified  
+Focused on governance, risk management, and compliance operations supporting enterprise security programs.
