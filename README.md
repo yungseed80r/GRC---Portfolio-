@@ -1,12 +1,12 @@
 # 🧩 GRC Cybersecurity Portfolio  
-### by Alexander T. Ramos  
+### by Alex Ramos  
 
 📂 **Explore Full GRC Portfolio on GitHub:**  
 [🔗 View GRC Portfolio Repository](https://github.com/yungseed80r/GRC---Portfolio-/)
 
 💼 **Connect with Me:**  
 📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  
-🌐 [LinkedIn – Alexander T. Ramos](https://www.linkedin.com/in/alex-r-68115231)
+🌐 [LinkedIn – Alex Ramos](https://www.linkedin.com/in/alex-r-68115231)
 
 ---
 
